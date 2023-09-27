@@ -1,0 +1,4 @@
+Nik, B
+Water, BonAqua, price=7
+Donut, Bakery, price=3
+Total: 10

@@ -1,0 +1,5 @@
+﻿  shop2.cpp
+E:\uni\sem3\oop\shop2\shop2\shop2.cpp(56,11): warning C4101: file1: неиспользованная локальная переменная
+E:\uni\sem3\oop\shop2\shop2\shop2.cpp(66,13): error C2660: DATABASE::search: функция не принимает 1 аргументов
+E:\uni\sem3\oop\shop2\shop2\shop2.cpp(50,9): message : см. объявление "DATABASE::search"
+E:\uni\sem3\oop\shop2\shop2\shop2.cpp(66,13): message : при попытке сопоставить список аргументов "(USER)"
